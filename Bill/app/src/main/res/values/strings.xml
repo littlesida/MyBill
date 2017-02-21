@@ -4,4 +4,9 @@
     <string name="password">密码:</string>
     <string name="usernameHint">请输入用户名</string>
     <string name="passwordHint">请输入密码</string>
+    <string name="addItem">新加条目</string>
+    <string-array name="typeArray">
+        <item>支出</item>
+        <item>存入</item>
+    </string-array>
 </resources>
